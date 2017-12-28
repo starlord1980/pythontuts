@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#this is a demo of classes
 
 class ClassName:
 	pass
